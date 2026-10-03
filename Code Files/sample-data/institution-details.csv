@@ -1,0 +1,5 @@
+Student Roll Number,Student Name,Faculty Name,Branch,Email,Phone Number,Description
+,EEE User,Faculty One,EEE,eeeuser@example.com,9000000001,EEE sample record
+,CSE User,Faculty One,CSE,cseuser@example.com,9000000002,CSE sample record
+,ECE User,Faculty Two,ECE,eceuser@example.com,9000000003,ECE sample record
+,EEE User,Faculty Two,EEE,eeeuser2@example.com,9000000004,Second EEE sample record
